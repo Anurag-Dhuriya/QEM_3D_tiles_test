@@ -1,0 +1,30 @@
+{
+  "port": 8080,
+  "host": "0.0.0.0",
+  "models": [
+    {
+      "name": "cottage",
+      "file": "cottage.obj",
+      "unit": "cm",
+      "lon": 72.5714,
+      "lat": 23.0225,
+      "height": 0,
+      "status": "pending",
+      "tileset_url": null,
+      "error": null,
+      "processed_at": null
+    },
+    {
+      "name": "office",
+      "file": "office.obj",
+      "unit": "cm",
+      "lon": 72.5800,
+      "lat": 23.0300,
+      "height": 0,
+      "status": "pending",
+      "tileset_url": null,
+      "error": null,
+      "processed_at": null
+    }
+  ]
+}
